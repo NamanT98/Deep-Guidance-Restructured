@@ -1,0 +1,44 @@
+This model is SU_Net_CHASEDB_Train: 
+args: Namespace(epochs=100, n_class=2, lr=0.001, GroupNorm=True, BatchNorm=False, datasetID=2, SubImageID=20, model_id=3, batch_size=1, img_size=512, my_description='CHASEDB_Train', use_gpu=True, gpu_avaiable='0')
+train lens: 20 | test lens: 8
+
+---------------------------------------------
+
+Acc: 0.95933056  |  Se: 0.15563199 |  Sp: 0.9985379 |  Auc: 0.9180040555859044 |  Background_IOU: 0.95904386 |  vessel_IOU: 0.14958236 
+
+Acc: 0.96953297  |  Se: 0.6329617 |  Sp: 0.9859437 |  Auc: 0.9522206702944443 |  Background_IOU: 0.968618 |  vessel_IOU: 0.48662585 
+
+Acc: 0.97358865  |  Se: 0.6466909 |  Sp: 0.9894411 |  Auc: 0.9733129708979611 |  Background_IOU: 0.9727658 |  vessel_IOU: 0.53038186 
+
+Acc: 0.9748694  |  Se: 0.7235849 |  Sp: 0.9870218 |  Auc: 0.9767930263255016 |  Background_IOU: 0.9739884 |  vessel_IOU: 0.5680381 
+
+Acc: 0.97297865  |  Se: 0.78095716 |  Sp: 0.9821894 |  Auc: 0.9785838640813211 |  Background_IOU: 0.97195727 |  vessel_IOU: 0.5691055 
+
+Acc: 0.9714302  |  Se: 0.80520034 |  Sp: 0.9794944 |  Auc: 0.9803289105892997 |  Background_IOU: 0.97033423 |  vessel_IOU: 0.5767345 
+
+Acc: 0.976079  |  Se: 0.8130274 |  Sp: 0.9840282 |  Auc: 0.9823983477004615 |  Background_IOU: 0.9751461 |  vessel_IOU: 0.6095872 
+
+Acc: 0.97752583  |  Se: 0.82224333 |  Sp: 0.98510116 |  Auc: 0.9847603612034392 |  Background_IOU: 0.9766332 |  vessel_IOU: 0.6262263 
+
+Acc: 0.977609  |  Se: 0.83003616 |  Sp: 0.9847615 |  Auc: 0.9849955360050238 |  Background_IOU: 0.97670466 |  vessel_IOU: 0.62977046 
+
+Acc: 0.9766512  |  Se: 0.8629228 |  Sp: 0.9821429 |  Auc: 0.9872641623047992 |  Background_IOU: 0.97567916 |  vessel_IOU: 0.62830967 
+
+Acc: 0.97804976  |  Se: 0.8419354 |  Sp: 0.98465407 |  Auc: 0.9877062291522163 |  Background_IOU: 0.9771569 |  vessel_IOU: 0.63735604 
+
+Acc: 0.977871  |  Se: 0.84780514 |  Sp: 0.9841795 |  Auc: 0.9875861923693978 |  Background_IOU: 0.9769631 |  vessel_IOU: 0.6370664 
+
+Acc: 0.9789076  |  Se: 0.8254715 |  Sp: 0.98638487 |  Auc: 0.9881672769397609 |  Background_IOU: 0.9780636 |  vessel_IOU: 0.64220786 
+
+Acc: 0.97889555  |  Se: 0.83895767 |  Sp: 0.98571867 |  Auc: 0.9882727445030273 |  Background_IOU: 0.9780363 |  vessel_IOU: 0.6458125 
+
+Acc: 0.97753155  |  Se: 0.85845697 |  Sp: 0.9833114 |  Auc: 0.9880044325080631 |  Background_IOU: 0.97659904 |  vessel_IOU: 0.63673854 
+
+Acc: 0.97813225  |  Se: 0.8511008 |  Sp: 0.9843212 |  Auc: 0.9881856176915287 |  Background_IOU: 0.9772327 |  vessel_IOU: 0.6412153 
+
+Acc: 0.9783152  |  Se: 0.85164535 |  Sp: 0.9844594 |  Auc: 0.9882933159843578 |  Background_IOU: 0.97742224 |  vessel_IOU: 0.643026 
+
+Acc: 0.9781886  |  Se: 0.8543503 |  Sp: 0.98416704 |  Auc: 0.9885255085690694 |  Background_IOU: 0.9772855 |  vessel_IOU: 0.6428315 
+
+Acc: 0.9785645  |  Se: 0.8570384 |  Sp: 0.984449 |  Auc: 0.9885978433926795 |  Background_IOU: 0.9776758 |  vessel_IOU: 0.64683545 
+

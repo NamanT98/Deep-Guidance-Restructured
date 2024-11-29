@@ -1,0 +1,8 @@
+__pycache__
+data
+core\__pycache__
+results/CHASEDB1/train/
+results/ORIGA/train
+models/SU_NET_CHASEDB_Train
+models/SU_NET_ORIGA_Train
+
